@@ -2,7 +2,9 @@ PHP-Image-Placeholder
 =====================
 
 Script creating a placeholder:
+
 1. Pictures from Wikimedia Commons (Pretty, yet slower), or
+
 2. Plain text with plain background (Boring, yet faster)
 
 ##Usage
